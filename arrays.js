@@ -15,5 +15,5 @@ function destructivelyAddElementToEndOfArray(chocolateBars, candyString){
 }
 
 function accessElementInArray(array, index){
-  return chocolateBars[candyString];
+  return chocolateBars[];
 }
